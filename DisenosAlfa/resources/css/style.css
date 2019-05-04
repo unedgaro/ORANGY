@@ -1,0 +1,47 @@
+.navbar {
+  background-color: rgba(243, 128, 15, 0.76);
+}
+
+.nav li{
+    background-color:#F3860C;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+}
+
+.nav li:hover {
+    
+    background-image: linear-gradient(red, #F3860C);
+}
+
+.navbar:hover{
+   background-image: linear-gradient(red, #F3860C);
+}
+
+.divhead{
+background: blue;
+    height: 11vh;
+    width: 100%;
+    display: flex;
+    padding: 1%; 
+}
+
+.divcontenido{
+    width: 100%;
+    padding: 1%;
+} 
+.sublimacion{
+     width: 100%;
+}
+.estructuras{
+   background: gray;
+    width: 100%;
+}
+
+
+ul, ol {
+     list-style:none;
+     margin:0;
+     padding:0;
+}
